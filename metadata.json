@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of 1 Admin of U Book Store LMS",
+  "description": "A vibrant and modern learning management system designed for young learners and teachers, featuring intuitive class management, grading, and reporting tools.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
